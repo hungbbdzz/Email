@@ -1,0 +1,7 @@
+{
+  "description": "Secure Email Client with AI Capabilities",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "SecureMail AI"
+}
