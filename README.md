@@ -263,8 +263,9 @@ This guarantees that even if the API client is compromised, a user can NEVER acc
 ### Step 1: Environment Variables
 Create `.env` in the root:
 ```env
-VITE_SUPABASE_URL=https://your-project.supabase.co
-VITE_SUPABASE_KEY=your-anon-key
+VITE_SUPABASE_URL=https://ytvkqfrktofhyxvklfnq.co
+VITE_SUPABASE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inl0dmtxZnJrdG9maHl4dmtsZm5xIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQxNTkzNjAsImV4cCI6MjA3OTczNTM2MH0.zL_5SW2ryZkLTkJOelJp9crRpYaCYd0jsFJeefqMiZ4
+
 VITE_API_KEY=your-gemini-api-key
 ```
 
